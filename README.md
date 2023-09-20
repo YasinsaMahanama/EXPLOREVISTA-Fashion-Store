@@ -6,7 +6,7 @@
 ## HTML Structure:
 
 The HTML file defines the structure of the web page, including headers, navigation, product listings, and a shopping cart.
-It incorporates semantic HTML elements such as <header>, <nav>, <main>, <aside>, and <footer> for better accessibility and structure.
+It incorporates semantic HTML elements such as header, nav, main, aside and footer for better accessibility and structure.
 The page has a responsive design, adapting to various screen sizes.
 
 
